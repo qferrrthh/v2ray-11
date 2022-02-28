@@ -8,7 +8,7 @@
 
 ### 附加
 
-> 1. 一键部署 V2Ray 到 [KubeSail](https://kubesail.com/template/ziivc/v2ray-11)。
+> 1. 一键部署 V2Ray 到 [KubeSail](https://kubesail.com/template/ziiyc/v2ray-11)。
 
 ### 参考 
 *https://github.com/v2ray/v2ray-core*
